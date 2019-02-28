@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20190226</CreaDate>
+    <CreaTime>21260600</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>TRUE</SyncOnce>
+  </Esri>
+  <dataIdInfo>
+    <idCitation>
+      <resTitle>CoC HSP</resTitle>
+    </idCitation>
+    <idPurp>This is a step to create HUD's CoC and Census Places and county relationship</idPurp>
+    <idAbs>&lt;P&gt;here we will add coc files from hud's geodatabase and census places and county files merged in one&lt;/P&gt;</idAbs>
+    <searchKeys>
+      <keyword>CoC2</keyword>
+    </searchKeys>
+  </dataIdInfo>
+</metadata>
